@@ -1,0 +1,7 @@
+{
+  "name": "activ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
